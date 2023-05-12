@@ -1,10 +1,10 @@
-# Project Title
+# Meta Token
 
-Meta Token
+A smart contract written in solidity.
 
 ## Description
 
-A smart contract written in solidity. The contract allows the user to do two operations. The first operation allows the user to mint tokens which adds the specified number of token to their balance. The second allows the user to burn tokens which deducts the specificed number of tokens from their balance.
+The contract allows the user to do two operations. The first operation allows the user to mint tokens which adds the specified number of token to their balance. The second allows the user to burn tokens which deducts the specificed number of tokens from their balance.
 
 ## Getting Started
 
