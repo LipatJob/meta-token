@@ -1,6 +1,6 @@
 # Meta Token
 
-A smart contract written in solidity.
+A smart contract written in solidity that allows user to mint and burn tokens.
 
 ## Description
 
